@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fitness-club-bullseye/static/css/main.96727463.chunk.css",
+    "main.js": "/fitness-club-bullseye/static/js/main.28e1a78a.chunk.js",
+    "main.js.map": "/fitness-club-bullseye/static/js/main.28e1a78a.chunk.js.map",
+    "runtime-main.js": "/fitness-club-bullseye/static/js/runtime-main.840b3736.js",
+    "runtime-main.js.map": "/fitness-club-bullseye/static/js/runtime-main.840b3736.js.map",
+    "static/css/2.4f8976c6.chunk.css": "/fitness-club-bullseye/static/css/2.4f8976c6.chunk.css",
+    "static/js/2.418a048a.chunk.js": "/fitness-club-bullseye/static/js/2.418a048a.chunk.js",
+    "static/js/2.418a048a.chunk.js.map": "/fitness-club-bullseye/static/js/2.418a048a.chunk.js.map",
+    "static/js/3.8cfa9ced.chunk.js": "/fitness-club-bullseye/static/js/3.8cfa9ced.chunk.js",
+    "static/js/3.8cfa9ced.chunk.js.map": "/fitness-club-bullseye/static/js/3.8cfa9ced.chunk.js.map",
+    "index.html": "/fitness-club-bullseye/index.html",
+    "static/css/2.4f8976c6.chunk.css.map": "/fitness-club-bullseye/static/css/2.4f8976c6.chunk.css.map",
+    "static/css/main.96727463.chunk.css.map": "/fitness-club-bullseye/static/css/main.96727463.chunk.css.map",
+    "static/js/2.418a048a.chunk.js.LICENSE.txt": "/fitness-club-bullseye/static/js/2.418a048a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/fitness-club-bullseye/static/media/gym.5432e283.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.840b3736.js",
+    "static/css/2.4f8976c6.chunk.css",
+    "static/js/2.418a048a.chunk.js",
+    "static/css/main.96727463.chunk.css",
+    "static/js/main.28e1a78a.chunk.js"
+  ]
+}
